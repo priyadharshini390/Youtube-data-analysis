@@ -83,6 +83,6 @@ Run all cells to reproduce the analysis.
 
 ## 👨‍💻 Author
 
-SURYA B M
+
 
 Data Analyst | Python | SQL | Power BI | Excel
